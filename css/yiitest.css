@@ -1,0 +1,18 @@
+#red {
+
+}
+#blue {
+
+}
+
+
+
+li.go span {
+    margin-right: 10px;
+}
+
+/*////////////////////////////////////my admin //////////////////////////////////////*/
+
+.nest ul, .nest li {
+    list-style-type: none;
+}
